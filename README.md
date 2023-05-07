@@ -2,8 +2,8 @@
 ## Isa Fulford and Andrew Ng
 # Course Notes
 
-The power Large Language Models (LLM) as a developer tool using API is still underappreciated. 
-Course to show some of the possibilities.
+The power of Large Language Models (LLM) as a development tool using APIs is still underappreciated. 
+This course objective is showing some of the possibilities in order to spark ideas.
 
 There are two types of LLM:
 - __Base LLM__: Predict next word, based on text training data.
@@ -11,7 +11,7 @@ There are two types of LLM:
 and good attempts at following those instructions. RLHF: Reinforcement Learning
 with Human Feedback. Helpful, Honest, Harmless is the goal of these models.
 
-This course focuses on "Best practices for Instruction Tuned LLM".
+This course focuses on __"Best practices for Instruction Tuned LLM"__.
 
 When using instruction tuned LLM, think of it as telling some instructions to 
 a colleague. When they don't work, normally it is because the prompt is not clear
